@@ -1,3 +1,3 @@
 # codes
 practices-code
-author akanksha
+author akanksha-shinde
