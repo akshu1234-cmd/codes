@@ -2,7 +2,7 @@ import java.util.Objects;
 
 public class StringAnagram {
     String s="earth";
-    String s1="banana";
+    String s1="heart";
     String s2="";
 
     public  void StringAnagram(){
